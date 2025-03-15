@@ -1,0 +1,19 @@
+{
+    "name": "hdj/hdjimagem",
+    "description": "Dependecia para gerir imagem dentro do laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hdj\\Hdjimagem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Higino Denilson Januário",
+            "email": "31030977+Higino2020@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
